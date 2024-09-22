@@ -21,7 +21,7 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/casecobra.git
+  git clone https://github.com/Prince0906/caseeecobraaa.git
 ```
 
 
